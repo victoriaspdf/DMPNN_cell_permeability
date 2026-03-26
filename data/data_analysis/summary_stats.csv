@@ -1,0 +1,5 @@
+split,total,log10_pampa,log10_caco2,log10_mdck
+train,8425,3851,3254,1474
+val,1055,482,413,183
+test,1055,482,414,186
+total,10535,4815,4081,1843

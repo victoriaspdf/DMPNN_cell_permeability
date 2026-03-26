@@ -1,0 +1,13 @@
+chemprop
+rdkit
+torch
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+tensorboard
+plotly
+kaleido
+jupyterlab_widgets
