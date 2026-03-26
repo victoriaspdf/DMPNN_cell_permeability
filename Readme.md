@@ -1,4 +1,4 @@
-# Deep Learning–assisted Design of Low Mammalian Cytotoxic and Bacteria-selective Cyanine Photosensitizers
+# Deep Learning–assisted Design of Low Mammalian Cytotoxic Cyanine Photosensitizers
 
 
 This repository provides data and code supporting the study:
@@ -8,7 +8,7 @@ This repository provides data and code supporting the study:
 
 
 ## Contents
-This repository integrates SQL scripts, curated datasets, and analysis to support prediction of cellular accumulation and permeability.
+This repository integrates SQL scripts, curated datasets, and analysis to support prediction of mammalian cellular permeability.
 - **Data Processing**
   - SQL scripts for PAMPA, Caco-2, MDCK essays data extraction located in `sql` directory.
   - Preprocessing scripts for data standardization in `prepare_papp.py`.
