@@ -11,3 +11,4 @@ tensorboard
 plotly
 kaleido
 jupyterlab_widgets
+anywidget
