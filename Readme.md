@@ -2,7 +2,7 @@
 
 
 This repository provides data and code supporting the study:
-"Integrating Deep Learning-assisted Design with Empirical Engineering for Precise and Practical Photodynamic Antibacterial Therapy".
+"From Deep Learning-Assisted Photosensitizer Prioritization to Self-Reinforcing Hydrogel for Precise Photodynamic Antibacterial Therapy".
 
 ![Permeability 3D Visualization](permeability_3D.svg)
 
